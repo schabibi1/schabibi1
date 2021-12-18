@@ -7,7 +7,10 @@ I'm a DevRel Engineer at [Storyblok](https://www.storyblok.com/) & an organizer 
 - 👯 My tech community YouTube: [Lilac](https://www.youtube.com/channel/UC9Rh6NpYTVyaoraUmdqPZGA)
 - 🗣 My talks overview: [Talks](https://arisa-fukuzaki.dev/talk/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schabibi1)](https://github.com/schabibi1/github-readme-stats)
+[![Arisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=schabibi1)](https://github.com/schabibi1/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schabibi1)](https://git.io/streak-stats)
+
 
 <!--
 **schabibi1/schabibi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
