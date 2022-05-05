@@ -1,6 +1,6 @@
 # Howdy, I'm Arisa 👋
 
-I'm a DevRel Engineer at [Storyblok](https://www.storyblok.com/) & an organizer of a free tech skill & knowledge-sharing community, [Lilac](https://lilac.connpass.com/). My mission is to **learn, speak, connect** and **help**. I'm a [podcaster](https://open.spotify.com/show/5wfjNhjD24vDbkqS1pkzwd), an Aikido fighter, [GirlCode](https://www.girl-code.co.uk/) ambassador, and a [Front-End Foxes School](https://frontendfoxes.school/) mentor.
+I'm a DevRel Engineer at [Storyblok](https://www.storyblok.com/) & an organizer of a free tech skill & knowledge-sharing community, [Lilac](https://lilac.connpass.com/). My mission is to **learn, speak, connect** and **help**. I'm a [podcaster](https://open.spotify.com/show/5wfjNhjD24vDbkqS1pkzwd), an Aikido fighter, [GirlCode](https://www.girl-code.co.uk/) ambassador, and a [Google Developer Expert](https://twitter.com/GoogleDevExpert).
 
 
 - 🌱 My blog/portfolio website: [🥑Arisa Fukuzaki](https://arisa-fukuzaki.dev/)
