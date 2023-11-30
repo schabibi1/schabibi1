@@ -1,6 +1,6 @@
 # Howdy, I'm Arisa 👋
 
-I'm a DevRel Engineer at [Storyblok](https://www.storyblok.com/). My mission is to **learn, speak, connect** and **help**. I'm a [GirlCode](https://www.girl-code.co.uk/) ambassador, [GirlCode Coffee Chat](https://github.com/GirlCode-Coffee) live stream host, and a [Google Developer Expert](https://twitter.com/GoogleDevExpert).
+I'm a DevRel Engineer at [Storyblok](https://www.storyblok.com/). My mission is to **learn, speak, connect** and **help**. I'm a [GirlCode](https://www.girl-code.co.uk/) ambassador, [GirlCode Coffee Chat](https://github.com/GirlCode-Coffee) live stream co-host, and a [Google Developer Expert](https://twitter.com/GoogleDevExpert).
 
 
 - 🌱 My blog/portfolio website: [🥑Arisa Fukuzaki](https://arisa-fukuzaki.dev/)
