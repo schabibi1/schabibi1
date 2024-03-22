@@ -1,6 +1,6 @@
 # Howdy, I'm Arisa 👋
 
-I'm a Senior DevRel Engineer at [Storyblok](https://www.storyblok.com/), a [GirlCode](https://www.girl-code.co.uk/) ambassador, a [GirlCode Coffee Chat](https://github.com/GirlCode-Coffee) live stream co-host, and a [Google Developer Expert](https://twitter.com/GoogleDevExpert).
+I'm a Senior DevRel Engineer & Docs at [Storyblok](https://www.storyblok.com/), a [GirlCode](https://www.girl-code.co.uk/) ambassador, a [GirlCode Coffee Chat](https://github.com/GirlCode-Coffee) live stream co-host, and [Google Developer Expert](https://twitter.com/GoogleDevExpert). I have a lot of passion for writing high-quality technical content outside of my work. I've contributed to writing technical articles for Gatsby, Smashing Magazine, and Remix. Feel free to reach out for similar opportunities to contribute.
 
 
 - 🌱 My website: [🥑Arisa Fukuzaki](https://bento.me/arisa-fukuzaki)
