@@ -1,11 +1,11 @@
 # Howdy, I'm Arisa 👋
 
-I am a Senior Developer Relations Engineer & Docs at [Storyblok](https://www.storyblok.com/), a [GirlCode](https://www.girl-code.co.uk/) ambassador, a [GirlCode Coffee Chat](https://github.com/GirlCode-Coffee) live stream co-host, and [Google Developer Expert](https://twitter.com/GoogleDevExpert). My technical skillsets are React, Remix, and Astro. My main focus in the current role is technical content creation for developers such as product documentation, maintaining SDKs, implementing new features in the API docs website and new extensions for our product demo.
+I am a Senior Developer Relations Engineer & Docs, a [GirlCode](https://www.girl-code.co.uk/) ambassador, an [As ANY](https://www.youtube.com/@as_any) podcast co-host, and [Google Developer Expert](https://twitter.com/GoogleDevExpert). My technical skillsets are React, Remix, and Astro. My main focus in the current role is technical content creation for developers such as product documentation, maintaining SDKs, implementing new features in the API docs website and new extensions for our product demo.
 
 
 - 🌱 My website: [🥑Arisa Fukuzaki](https://bento.me/arisa-fukuzaki)
 - 🕊 My Twitter/X: [@arisa_dev](https://twitter.com/arisa_dev)
-- 👯 Our GirlCode Coffee Chat YouTube recordings: [GirlCode Coffee Chat](https://www.youtube.com/playlist?list=PLIpMd31xW20uikh-puAqqlyEJ77l624vo)
+- 👯 Our As ANY podcast YouTube channel: [As ANY](https://www.youtube.com/@as_any)
 
 [![@schabibi1 Astro contributions](https://astro.badg.es/v1/contributor/schabibi1.svg)](https://astro.badg.es/v1/contributor/schabibi1/)
 
