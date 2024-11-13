@@ -4,6 +4,7 @@ I am a Senior Developer Relations Engineer & Docs, a [GirlCode](https://www.girl
 
 
 - 🌱 My website: [🥑Arisa Fukuzaki](https://bento.me/arisa-fukuzaki)
+- 🌌 My Bluesky: [@arisa-dev.bsky.social](https://bsky.app/profile/arisa-dev.bsky.social)
 - 🕊 My Twitter/X: [@arisa_dev](https://twitter.com/arisa_dev)
 - 👯 Our As ANY podcast YouTube channel: [As ANY](https://www.youtube.com/@as_any)
 
