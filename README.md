@@ -1,12 +1,12 @@
 # Howdy, I'm Arisa 👋
 
-I am a Senior Developer Relations Engineer & Docs, a [GirlCode](https://www.girl-code.co.uk/) ambassador, an [As ANY](https://www.youtube.com/@as_any) podcast co-host, and [Google Developer Expert](https://twitter.com/GoogleDevExpert). My technical skillsets are React, Remix, and Astro. My main focus in the current role is technical content creation for developers such as product documentation, maintaining SDKs, implementing new features in the API docs website and new extensions for our product demo.
+I am a Senior Developer Relations Engineer & Docs, a [GirlCode](https://www.girl-code.co.uk/) ambassador, an [As ANY](https://www.youtube.com/@as_any) podcast co-host, and [Google Developer Expert](https://twitter.com/GoogleDevExpert). My technical skillsets are React, Remix, and Astro. My main focus in the current role is technical content creation for developers, such as product documentation, maintaining SDKs, implementing new features in the API docs website, and new extensions for product demos.
 
 
 - 🌱 My website: [🥑Arisa Fukuzaki](https://bento.me/arisa-fukuzaki)
-- 🌌 My Bluesky: [@arisa-dev.bsky.social](https://bsky.app/profile/arisa-dev.bsky.social)
+- 🦋 My Bluesky: [@arisa-dev.bsky.social](https://bsky.app/profile/arisa-dev.bsky.social)
 - 🕊 My Twitter/X: [@arisa_dev](https://twitter.com/arisa_dev)
-- 👯 Our As ANY podcast YouTube channel: [As ANY](https://www.youtube.com/@as_any)
+- 💜 Our As ANY podcast YouTube channel: [As ANY](https://www.youtube.com/@as_any)
 
 [![@schabibi1 Astro contributions](https://astro.badg.es/v1/contributor/schabibi1.svg)](https://astro.badg.es/v1/contributor/schabibi1/)
 
